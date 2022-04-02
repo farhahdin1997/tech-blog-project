@@ -35,3 +35,5 @@ Then in a different terminal
 7. put localhost:3001 in broswer to test or click on deplyed link
 
 ```
+
+Deployment link - https://powerful-temple-10801.herokuapp.com/
