@@ -19,7 +19,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
 
 ## Walkthrough 
-<!-- ![Untitled_ Mar 23, 2022 8_48 PM](https://user-images.githubusercontent.com/81389441/160014484-519d42d4-89a0-4555-ac3c-b8a90e7a0115.gif) -->
+![Untitled_ Apr 2, 2022 4_38 PM](https://user-images.githubusercontent.com/81389441/161391271-24d266fc-73ee-430f-bab6-680d9e7f3b04.gif)
 
 
 ## Installation
